@@ -1,3 +1,3 @@
 # Journals
 
-Follow the steps detailed on D2L regarding journals.
+[My Journal Entries](https://github.com/CS2613-FA2021/journal-entries-mrkhlt422/wiki)
